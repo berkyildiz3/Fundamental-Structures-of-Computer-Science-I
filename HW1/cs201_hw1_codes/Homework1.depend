@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530553830 source:c:\users\berkyildiz\desktop\cs201\projeler\homework1\boxoffice.cpp
+	<iostream>
+	<string>
+	"BoxOffice.h"
+
+1530488500 c:\users\berkyildiz\desktop\cs201\projeler\homework1\boxoffice.h
+	<iostream>
+	<string>
+

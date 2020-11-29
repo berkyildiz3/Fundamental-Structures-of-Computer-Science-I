@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532176592 source:c:\users\berkyildiz\desktop\cs201\projeler\paperrepository\paperrepository.cpp
+	<iostream>
+	<string>
+	"PaperRepository.h"
+	<cstddef>
+
+1532176469 c:\users\berkyildiz\desktop\cs201\projeler\paperrepository\paperrepository.h
+
